@@ -1,0 +1,11 @@
+html{
+    font-size: 62%;
+}
+h1{
+    font-size: 2.8rem;
+    border: 4px black;
+    padding: 4rem;
+}
+p{
+    font-size: 2rem;
+}

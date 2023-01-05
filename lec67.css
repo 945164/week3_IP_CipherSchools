@@ -1,0 +1,4 @@
+ul li:nth-of-type(2){
+    color: red;
+    background: lightblue;
+}

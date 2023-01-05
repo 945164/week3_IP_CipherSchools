@@ -1,0 +1,6 @@
+p::first-letter{
+    font-size: 34px;
+}
+p::selection{
+    background: rgb(110, 47, 47);
+}

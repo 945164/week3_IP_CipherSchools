@@ -1,0 +1,12 @@
+div{
+    border: 2px solid red;
+    font-size: 30px;
+    width: 50%;
+}
+p{
+    border: 2px solid green;
+    width: 50%;
+    background-color: lightblue;
+    margin: 10px auto;
+    text-align: center;
+}
